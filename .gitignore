@@ -1,5 +1,7 @@
 __pycache__/
 .idea/
 migrations/
+docs/
 draft.py
 db.sqlite3
+.env
